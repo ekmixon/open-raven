@@ -6,17 +6,17 @@ This will be the roadmap for all Open Raven open-source projects including Magpi
 
 ## Magpie Suite
 
-- DBT / SnowFlake integration 
+- DBT / SnowFlake Integration 
 - Security Rules
 - GCP Discovery
-- Network and Perimater Discovery 
+- Network and Perimeter Discovery 
 - DMAP 
 - Plugin for Open Raven 3D Maps
-- Terrascan integration 
+- Terrascan Integration 
 
 
 ## MockingBird Suite
 - Sensitive data generator 
-- output generators for relationsal and no-relational databases (impotent appsec data) 
+- output generators for relational and non-relational databases (impotent appsec data) 
 
 
