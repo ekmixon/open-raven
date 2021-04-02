@@ -4,7 +4,7 @@ This is the open source roadmap for [Open Raven](https://www.openraven.com). Eng
 
 We welcome all contributions to our open source tools from feedback, bug reports and pull-requests. Tasks and individual issues for specific projects are managed in the project repos themselves. 
 
-In this repository, you can find the [official Corvus Security Research open source roadmap](https://github.com/openraven/roadmap/projects/1). Our product roadmap is where you can learn about tools and features we're working on, features we are planning , what stage they're in, and when we expect to bring them to you. 
+In this repository, you can find the [official Corvus Security Research open source roadmap](https://github.com/openraven/open-source-roadmap/projects/1). Our product roadmap is where you can learn about tools and features we're working on, features we are planning , what stage they're in, and when we expect to bring them to you. 
 
 Have questions or comments about items on the roadmap? Join the community Slack at the [Corvus Security Research Slack Workspace](https:///). 
 
