@@ -1,10 +1,10 @@
 # Oopen source roadmap 
 
-Corvus Security Research is the full-time research and development team of [Open Raven] (https://www.openraven.com) that builds free open source tools and publishes security research. Our focus is cloud and data security and you can browse all of our work at the [Corvus Security Resaearch landing page] (https://csr.openraven.com) < coming soon.
+This is the open source roadmap for [Open Raven](https://www.openraven.com). Engineering is done by our Corvus Security Research team, a full-time research and development team that focus is cloud and data security. You can browse all of our work at the[Corvus Security Resaearch landing page] (https://csr.openraven.com), coming soon.
+
+We welcome all contributions to our open source tools from feedback, bug reports and pull-requests. Tasks and individual issues for specific projects are managed in the project repos themselves. 
 
 In this repository, you can find the [official Corvus Security Research open source roadmap](https://github.com/openraven/roadmap/projects/1). Our product roadmap is where you can learn about tools and features we're working on, features we are planning , what stage they're in, and when we expect to bring them to you. 
-
-We weclome all contributions to our open source tools from feedback, bug reports and pull-requests. Tasks and individual issues for specific projects are managed in the project repos themselves. 
 
 Have questions or comments about items on the roadmap? Join the community Slack at the [Corvus Security Research Slack Workspace](https:///). 
 
