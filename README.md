@@ -1,4 +1,4 @@
-# Oopen source roadmap 
+# Open source roadmap 
 
 This is the open source roadmap for [Open Raven](https://www.openraven.com). Engineering is done by our Corvus Security Research team, a full-time research and development team that focus is cloud and data security. You can browse all of our work at the[Corvus Security Resaearch landing page] (https://csr.openraven.com), coming soon.
 
